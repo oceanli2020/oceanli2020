@@ -1,5 +1,13 @@
 # 🐵 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 lihaiyang ٩(๑>◡<๑)۶
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oceanli2020&show_icons=true&theme=dracula)
+
+
+
+
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-brightgreen)
+
 <!--
 **oceanli2020/oceanli2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
