@@ -30,6 +30,11 @@
 - **[Chat Wordcloud](https://github.com/oceanli2020/chat-wordcloud)**: A desktop program developed based on Electron+Vue can analyze WeChat and QQ chat records and generate word clouds.
 - **[Hexo Matery Blog ](https://github.com/oceanli2020/hexo-matery-blog)**: The source code of my personalized blog theme is ready to use.
 
+### 🧲 Magnet
+- ![bilibili](https://user-images.githubusercontent.com/52871280/144735983-627cb2cb-71ca-414a-9c70-066fbe3f50f5.png) **[Bilibili](https://space.bilibili.com/34689867)**
+- **[Learn](https://github.com/oceanli2020/learn)**
+- **[Learn](https://github.com/oceanli2020/learn)**
+
 ### 🎈 Stats
 ![Anurag's GitHub stats](https://stats.justsong.cn/api/zhihu?username=li-hai-yang-73-23)
 ![Anurag's GitHub stats](https://stats.justsong.cn/api/juejin?id=1478214424737672)
