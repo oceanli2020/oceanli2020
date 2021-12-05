@@ -21,7 +21,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
 - ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
-  ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=Vue.js)
 - ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
     
