@@ -26,15 +26,13 @@
 
 ### 🎈 Stats
 ![Anurag's GitHub stats](https://stats.justsong.cn/api/zhihu?username=li-hai-yang-73-23)
-![Anurag's GitHub stats](https://stats.justsong.cn/api/bilibili/?id=34689867)
+![Anurag's GitHub stats](https://stats.justsong.cn/api/juejin?id=1478214424737672)
 
 ![Anurag's GitHub stats](https://stats.justsong.cn/api/leetcode?username=oceanli2020&cn=true)
 ![Anurag's GitHub stats](https://stats.justsong.cn/api/csdn?id=qq_42943036)
 
 ### 🎮 Game
 ![Travis](https://steam-stat.vercel.app/api?profileName=76561198305392933)
-
-### 🎧 Listen
 
 > ***The only thing that can move across dimensions, like time, is gravity.***
 
