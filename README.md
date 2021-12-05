@@ -22,7 +22,7 @@
 ### 🚀 Projects
 - **[Learn](https://github.com/oceanli2020/learn)**: The front-end and back-end separation project developed based on SpringBoot+Vue+Element realizes functions such as video file upload and playback, live broadcast and other functions.
 - **[Chat Wordcloud](https://github.com/oceanli2020/chat-wordcloud)**: A desktop program developed based on Electron+Vue can analyze WeChat and QQ chat records and generate word clouds.
-- **[Hexo Matery Blog ](https://github.com/oceanli2020/hexo-matery-blog)**: TThe source code of my personalized blog theme is ready to use.
+- **[Hexo Matery Blog ](https://github.com/oceanli2020/hexo-matery-blog)**: The source code of my personalized blog theme is ready to use.
 
 ### 🎈 Stats
 ![Anurag's GitHub stats](https://stats.justsong.cn/api/zhihu?username=li-hai-yang-73-23)
