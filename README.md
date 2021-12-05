@@ -9,16 +9,22 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oceanli2020&hide=html,ejs,css&&layout=compact)
 
 ### 🛠 Tech Stack
-- &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-- &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
+- ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
+    
 ### 🚀 Projects
 - **[Learn](https://github.com/oceanli2020/learn)**: The front-end and back-end separation project developed based on SpringBoot+Vue+Element realizes functions such as video file upload and playback, live broadcast and other functions.
 - **[Chat Wordcloud](https://github.com/oceanli2020/chat-wordcloud)**: A desktop program developed based on Electron+Vue can analyze WeChat and QQ chat records and generate word clouds.
