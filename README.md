@@ -46,8 +46,8 @@
 
 ![Anurag's GitHub stats](https://stats.justsong.cn/api/bilibili/?id=34689867)
 
-### 🎮 Game
-![Travis](https://steam-stat.vercel.app/api?profileName=76561198305392933)
+<!-- ### 🎮 Game -->
+<!-- ![Travis](https://steam-stat.vercel.app/api?profileName=76561198305392933) -->
 
 ### 🚎 [CodersRank](https://profile.codersrank.io/user/oceanli2020)
 <img width=360 src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=oceanli2020&badges=3&show-avatar=true"/>
