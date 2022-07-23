@@ -50,6 +50,9 @@
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=oceanli2020&certificates=false"
 />
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=oceanli2020&certificates=false"
+/>
 
 > ***The only thing that can move across dimensions, like time, is gravity.***
 
