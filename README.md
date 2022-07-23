@@ -51,7 +51,7 @@
 
 ### Resume
 <图片
-  src = " https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=oceanli2020&max-items=2&certificates=false&style=--item-bg-color:%23f00;--item-border-半径：10 像素“
+  src ="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=oceanli2020"
 />
 
 > ***The only thing that can move across dimensions, like time, is gravity.***
