@@ -49,5 +49,8 @@
 ### 🚎 [CodersRank](https://profile.codersrank.io/user/oceanli2020)
 <img width=360 src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=oceanli2020&badges=3&show-avatar=true"/>
 
+### Resume
+https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=oceanli2020
+
 > ***The only thing that can move across dimensions, like time, is gravity.***
 
