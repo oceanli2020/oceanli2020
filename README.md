@@ -2,7 +2,7 @@
 
 ### I'm Haiyang Li
 - 🔨 Full stack development.
-- 🏠 Currently working in Nanjing, China.
+- 🏠 Currently working in Xi'an, China.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oceanli2020&show_icons=true&theme=dracula&include_all_commits=true)
 
