@@ -4,7 +4,7 @@
 - 🔨 Full stack development.
 - 🏠 Currently working in Xi'an, China.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oceanli2020&show_icons=true&theme=dracula&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oceanli2020&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oceanli2020&hide=html,ejs,css&&layout=compact)
 
